@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Controllers\\HomeController": "src/",
+            "Models\\User" : "src/"
+        },
+        "psr-4": {
+            "AHT\\": "src/"
+        }
+    }
+}
